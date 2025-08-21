@@ -4,6 +4,9 @@
 # Responses 
 https://docs.google.com/document/d/1ZrNS7AdxQCT9MbgPhDBhdLkGijLVOiOK8G1Tw4h_8b4/edit?usp=sharing
 
+# Data 
+Upload the original data set into the link in pd.read_csv
+
 **Overview of Task**
 I was assigned to look at traffic data of AeroConnect between cities in Australia to Foreign Ports. 
 
